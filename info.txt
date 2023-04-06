@@ -1,0 +1,7 @@
+1.	Read recommended sources.
+2.	For database "Sample" create DAOs and services with all CRUD operations.
+    Write a few additional methods (e.g. get all departments, get employee by name).
+    Write a method for department deletion.
+    Check if your program and database properly works with Cyrillic alphabet.
+3.	Write program that read all meta data from a database
+    (e.g. list of tables, parameters, list of cols for each table and so on)
